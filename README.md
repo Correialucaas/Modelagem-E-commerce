@@ -40,3 +40,5 @@ Relacionamentos
 ✔️ Produto_Pedido;
 ✔️ Pedido_Metodo_Pagamento;
 ✔️ Cliente_Metodo_Pagamento.
+
+![image](https://github.com/Correialucaas/Modelagem-E-commerce/assets/108273887/c114b859-6d26-401f-8221-aefaa6fef7a1)
